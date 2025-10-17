@@ -23,7 +23,6 @@ step-9: stop
   printf("Enter the second number: ");
   scanf("%i", &num2);
   sum = num1 + num2;
-  printf("The sum of %i and %i is %i.", num1, num2, sum);
+  printf("The sum of %i and %i is %i.", num1, num2, sum)
 
-  return 0;
  }
